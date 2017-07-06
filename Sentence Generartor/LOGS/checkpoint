@@ -1,0 +1,2 @@
+model_checkpoint_path: "Sent-Compl-Model-10"
+all_model_checkpoint_paths: "Sent-Compl-Model-10"
