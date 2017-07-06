@@ -1,5 +1,6 @@
 # Deep-Learning-Projects
 Sentence Generator is a deep learning tool to generate the english sentence given the first character. This is implemented in python language with using popular modules such as tensorflow, numpy etc.
+
 To train:
     python Models.py
     
